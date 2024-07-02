@@ -1,0 +1,21 @@
+How to run the frontend - Projectile Motion Simulation
+
+1) git clone https://github.com/your-username/projectile-motion-simulation.git
+2) navigate to the directory where the repo is cloned
+3) cd trajectory-simulation-stanford\web_app\frontend
+4) npm i
+5) cd src
+6) npm run dev
+7) ctrl and left mouse button on the link http://localhost:5173/
+
+How to run the backend - Projectile Motion Simulation
+
+1) cd trajectory-simulation-stanford\web_app\backend
+2) pip install Flask
+3) pip install flask-cors
+4) python server.py
+
+Try to run the backend before the frontend
+-run backend together with frontend in two seperate terminals
+
+

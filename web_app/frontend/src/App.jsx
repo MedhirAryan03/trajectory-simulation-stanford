@@ -12,7 +12,7 @@ const App = () => {
                 <TrajectorySimulation />
             </div>
             <div>
-                <div class="flex flex-row justify-around space-x-4 bg-gray-100 p-4">
+                <div class="flex flex-row justify-around space-x-4 bg-slate-700 p-4">
                     <div class="w-1/3 bg-black text-white p-4 rounded shadow">
                         <h2 class="text-xl font-bold mb-2">Understanding Projectile Motion</h2>
                         <p class="text-base">
